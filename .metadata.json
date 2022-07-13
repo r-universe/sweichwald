@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "coroICA",
+    "oncran": true
+  }
+]
