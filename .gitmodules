@@ -6,3 +6,6 @@
 	path = coroICA
 	url = https://github.com/sweichwald/coroica-r
 	subdir = coroICA
+[submodule "gadjid"]
+	path = gadjid
+	url = https://github.com/cran/gadjid
